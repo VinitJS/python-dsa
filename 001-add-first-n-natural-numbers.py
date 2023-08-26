@@ -1,4 +1,4 @@
 # Add first n whole numbers
 
-def solution(n):
-  return (n * (n + 1)) / 2
+def solve(n):
+  return int((n * (n + 1)) / 2)
